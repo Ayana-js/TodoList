@@ -1,0 +1,51 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "name": "Ayana",
+      "email": "ayana.sultanova@gmail.com",
+      "isFriend": true
+    },
+    {
+      "id": "ky8ajdf2",
+      "name": "Norman",
+      "email": "norman.osborn@gmail.com",
+      "isFriend": true
+    },
+    {
+      "id": "ky8f4g9e",
+      "name": "Tom",
+      "email": "tom.hardy@gmail.com",
+      "isFriend": true
+    },
+    {
+      "id": "ky8f5inu",
+      "name": "Toby",
+      "email": "toby.maquire@gmail.com",
+      "isFriend": true
+    },
+    {
+      "id": "ky8p348r",
+      "isFriend": false,
+      "name": "Dima",
+      "email": "dima"
+    },
+    {
+      "id": "ky8pauyh",
+      "isFriend": false,
+      "name": "sw",
+      "email": "ayana.sultanovaa@gmail.com"
+    },
+    {
+      "id": "ky8r3n49",
+      "isFriend": false,
+      "name": "wk",
+      "email": "dd"
+    },
+    {
+      "id": "ky9r7z6y",
+      "name": "Omursadfsd",
+      "email": "ouqwe@gamisdlf.ru"
+    }
+  ]
+}
